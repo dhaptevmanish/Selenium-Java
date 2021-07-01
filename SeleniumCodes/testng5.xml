@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Test">
+  
+ <!-- <parameter name = "Fuck, Victor" value = "Sootha moodinu poi thoongu da baadeh"></parameter> --> 
+  <classes>
+  <class name = "SeleniumTestCases.ParametersDemo"></class>
+  </classes>
+  
+  
+  </test> 
+</suite> 

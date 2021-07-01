@@ -1,0 +1,10 @@
+
+<suite parallel="classes" name="Suite">
+  <test thread-count="5" parallel="classes" name="Test">
+    <classes>
+      <class name="SeleniumTestCases.chromelaunch"/>
+       <class name="SeleniumTestCases.chromelaunch2"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
